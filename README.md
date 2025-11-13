@@ -1,79 +1,67 @@
-🍉 Fruit Slicer Game 🔪
+# 🍉 Fruit Slicer Game 🔪
 
-Welcome to Fruit Slicer, a fast-paced and engaging web-based game where players test their reflexes by slicing fruits flying across the screen. This standalone HTML build runs entirely in the browser — no setup, no backend, just pure fun.
+**Fruit Slicer** is a fast-paced and engaging web-based game where players test their reflexes by slicing fruits flying across the screen. This standalone HTML build runs entirely in the browser — **no setup, no backend, just pure fun.**
 
-✨ Key Features
+---
 
-Multiple Game Modes:
+## ✨ Key Features
 
-Classic: Slice fruits, avoid bombs, and survive as long as possible. Three misses end your run.
+### 🕹️ Multiple Game Modes
 
-Time Attack: Beat the clock and slice special fruits to gain extra seconds or freeze time.
+* **Classic:** Slice fruits, avoid bombs, and survive as long as possible. **Three misses end your run.**
+* **Time Attack:** Beat the clock and slice special fruits to gain extra seconds or freeze time.
+* **Arcade:** Progress through levels with unique objectives and challenges.
+* **Special Mode (Fruit Frenzy):** A limited-time event packed with power-ups and chaotic fun.
 
-Arcade: Progress through levels with unique objectives and challenges.
+### 🏆 Progression & Rewards
 
-Special Mode (Fruit Frenzy): A limited-time event packed with power-ups and chaotic fun.
+* **Daily Rewards:** Log in daily to earn increasing coin bonuses.
+* **Daily Bounties:** Complete three new challenges each day for extra coins.
+* **Daily Spin Wheel:** Spin once per day for a chance to win big prizes.
 
-Progression & Rewards:
+### ⚔️ Shop & Blade System
 
-Daily Rewards: Log in daily to earn increasing coin bonuses.
+* **Unique Blades:** Buy different blades, each with a unique look and **special power**.
+* **Blade Abilities:** Trigger effects like shockwaves, corrosive puddles, or projectile attacks.
+* **Upgrades:** Enhance blades up to level 10 to **boost your score multiplier**.
 
-Daily Bounties: Complete three new challenges each day for extra coins.
+### 🌟 Dynamic Gameplay
 
-Daily Spin Wheel: Spin once per day for a chance to win big prizes.
+* **Power-ups:** Slice special fruits for frenzy, score multipliers, or sawblade effects.
+* **Fruit of the Day:** Earn **triple points** for a featured fruit that changes daily.
+* **High Scores:** Compete against your best performances across all modes.
 
-Shop & Blade System:
+---
 
-Unique Blades: Buy different blades, each with a unique look and special power.
+## 🚀 How to Run
 
-Blade Abilities: Trigger effects like shockwaves, corrosive puddles, or projectile attacks.
+You’re submitting **only the final HTML build file**, so there’s no setup needed.
 
-Upgrades: Enhance blades up to level 10 to boost your score multiplier.
+### Option 1: Open Directly (Quickest)
 
-Dynamic Gameplay:
+1.  Download or clone the repository.
+2.  Double-click the `fruit-slicer.html` (or your build file) to open it in any modern browser.
 
-Power-ups: Slice special fruits for frenzy, score multipliers, or sawblade effects.
+### Option 2: Run via Local Server (Recommended for full functionality)
 
-Fruit of the Day: Earn triple points for a featured fruit that changes daily.
+If some features (like sounds or assets) don’t load properly when opened directly, you can run a quick local server.
 
-High Scores: Compete against your best performances across all modes.
-
-🚀 How to Run
-
-You’re submitting only the final HTML build file, so there’s no setup needed.
-
-Option 1: Open Directly
-
-Download or clone the repository.
-
-Double-click the fruit-slicer.html (or your build file) to open it in any modern browser.
-
-Option 2: Run via Local Server (Recommended for full functionality)
-
-If some features (like sounds or assets) don’t load properly when opened directly, you can run a quick local server:
-
-Using Python 3:
-
-python -m http.server
-
-
+**Using Python 3:**
 Using Node.js (if serve is installed):
-
-npx serve
-
 
 Then open the provided local address (e.g., http://localhost:8000).
 
-🎮 How to Play
+## 🎮 How to Play
+1. Choose a Mode: Classic, Time Attack, Arcade, or Fruit Frenzy.
 
-Choose a Mode: Classic, Time Attack, Arcade, or Fruit Frenzy.
+2. Slice Fruits: Click and drag (or use touch input) across fruits as they fly across the screen.
 
-Slice Fruits: Click on fruits as they fly across the screen.
+3. Build Combos: Slice multiple fruits in a single motion to earn combo bonuses.
 
-Build Combos: Slice multiple fruits in a single motion to earn combo bonuses.
+4. Avoid Bombs: Slicing bombs ends the game or penalizes time.
 
-Avoid Bombs: Slicing bombs ends the game or penalizes time.
+5. Watch for Misses: In Classic mode, three missed fruits = game over.
 
-Watch for Misses: In Classic mode, three missed fruits = game over.
+6. Earn & Spend Coins: Use coins to buy or upgrade blades for score boosts.
 
-Earn & Spend Coins: Use coins to buy or upgrade blades for score boosts.
+## Unleash your blade and dive into the juicy chaos of Fruit Slicer — slice fast, dodge smart, and rule the leaderboard!
